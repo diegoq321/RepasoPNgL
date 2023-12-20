@@ -1,3 +1,6 @@
 versiones 1-2
 Este archivo de versiones
 esta en la rama otra_rama
+
+Estas son lineas de una nueva caracteristica
+Nueva caracteristica
