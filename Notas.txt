@@ -1,0 +1,35 @@
+GITHUB
+git init: Iniciar el trackeo con git
+
+git status: Conocer el estado del los archivos trackeados y no trackeados
+
+git config --global --list: Conocer la confiiguracion del proyecto
+
+git config --global user.name <username>: Configurar el usuario
+
+git config --global user.email <useremail: Configurar el email del usuario de github
+
+git config --global core.editor <editor>: Configurar el visor de cambios
+
+git add <file>: Agregar un archivo como trackeados
+
+git restore -staged <file>: Para quitar un archivo agregado con git add
+
+git revert <commit>: Para revertir los cambios realizados con un commit previo
+
+git log para ver los cambios realizados
+
+git clean -f: Para forzar la eliminacion de archivos que no han sido trackeados
+
+git commit <file>: Confirmar los cambios
+
+git brach: Revisar en que rama nos encontramos
+
+git branch <nombre>: Para crear una rama dentro del repositorio
+
+git checkout <nombre_rama>: Para cambiar de rama
+
+git checkout -b <nombre>: Crear una rama e ingresar a la rama
+
+
+
